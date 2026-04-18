@@ -1,0 +1,5 @@
+*.plist
+Point-Ping/Assets.xcassets/
+Point-Ping/*.plist
+.DS_Store
+Point-Pind/.DS_Store
